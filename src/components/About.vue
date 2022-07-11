@@ -12,7 +12,7 @@ const skills = [
 	},
 	{
 		title: '專業老師',
-		description: 'xxx',
+		description: '楊仁文老師',
 	},
 	{
 		title: '培訓時間',

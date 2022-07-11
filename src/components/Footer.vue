@@ -2,7 +2,7 @@
 const profiles = [
 	{
 		url: 'https://github.com/octocat',
-		icon: `<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Facebook</title><path d="https://www.facebook.com/lin.homebs"/></svg>`
+		icon: `<svg role="img" viewBox="0 0 24 24" xmlns="https://github.com/octocat"><title>Facebook</title><path d="https://github.com/octocat"/></svg>`
 	}
 ]
 </script>
